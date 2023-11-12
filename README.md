@@ -1,4 +1,9 @@
-# React + TypeScript + Vite
+# React + TypeScript + Vite + Tailwind
+
+To check for dependency updates
+```
+npm-check-updates
+```
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
