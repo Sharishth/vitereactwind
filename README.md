@@ -1,4 +1,9 @@
+# TODO
+- add typography plugin
+- create a branch daisyui component library
+
 # React + TypeScript + Vite + Tailwind
+This is template Repo
 To check for dependency updates
 ```
 npm-check-updates
