@@ -1,4 +1,5 @@
 # TODO
+- ~Reconfig the tailwind~
 - add typography plugin
 - create a branch daisyui component library
 
