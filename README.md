@@ -1,6 +1,8 @@
+## BASED ON VITE v5 and React 18.02, compatibility tested with node v20.9.0 (LTS) and npm 10.1.0.
+
 # TODO
 - ~Reconfig the tailwind~
-- add typography plugin
+- ~add typography plugin~
 - create a branch daisyui component library
 
 # React + TypeScript + Vite + Tailwind
