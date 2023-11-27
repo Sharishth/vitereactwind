@@ -1,10 +1,14 @@
-import { Link } from "../../node_modules/react-router-dom/dist/index.js"
+import { Link } from "react-router-dom";
 
 export default function Home() {
- return (
-  <>
-   <h1>Home Page</h1>
-   <Link to='/About'>About</Link>
-  </>
- )
+  return (
+    <>
+      <div className="flex h-100vh m-1">
+       <div>
+       <h1>Heading</h1>
+       <Link to='/about' className="link link-primary"> About </Link>
+       </div>
+      </div>
+    </>
+  );
 }
