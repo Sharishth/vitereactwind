@@ -3,7 +3,7 @@
 # TODO
 - ~Reconfig the tailwind~
 - ~add typography plugin~
-- create a branch daisyui component library
+- ~create a branch daisyui component library~
 
 # React + TypeScript + Vite + Tailwind
 This is template Repo
