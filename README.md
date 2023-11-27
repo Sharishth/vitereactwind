@@ -1,11 +1,7 @@
 ## BASED ON VITE v5 and React 18.02, compatibility tested with node v20.9.0 (LTS) and npm 10.1.0.
-
-# TODO
-- ~Reconfig the tailwind~
-- ~add typography plugin~
-- create a branch daisyui component library
-
-# React + TypeScript + Vite + Tailwind
+### Module: ESNext 
+### Module Resolution: Bundler
+# React + TypeScript + Vite + Tailwind + DaisyUI
 This is template Repo
 To check for dependency updates
 ```
